@@ -86,14 +86,6 @@ Add your project screenshots here after uploading images to GitHub.
 ### Bar Chart for Sentiment Analysis
 ![Bar Chart](Bar chart for sentimental Analysis.png.jpg)
 
-### Pie Chart for Sentiment Analysis
-![Pie Chart](pie chart for sentimental Analysis.png.jpg)
-
-### Word Cloud for Sentiment Analysis
-![Word Cloud](Word Cloud for Sentimental Analysis.png.jpg)
-
-### Final Output
-![Final Output](Final Output.png.jpg)
 
 ---
 
