@@ -81,10 +81,13 @@ python "Sentimanental Analysis.py"
 ## 📸 Project Screenshot
 Add your project screenshots here after uploading images to GitHub.
 
-## Dashboard Screenshots
+![Bar Chart](bar_chart.jpg)
 
-### Bar Chart for Sentiment Analysis
-![Bar Chart](Bar chart for sentimental Analysis.png.jpg)
+![Pie Chart](pie_chart.jpg)
+
+![Word Cloud](word_cloud.jpg)
+
+![Final Output](final_output.jpg)
 
 
 ---
